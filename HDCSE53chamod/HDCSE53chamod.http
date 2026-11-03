@@ -1,0 +1,6 @@
+@HDCSE53chamod_HostAddress = http://localhost:5190
+
+GET {{HDCSE53chamod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
